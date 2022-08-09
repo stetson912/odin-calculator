@@ -68,7 +68,7 @@ body{
     height:33%;
 }
 
-.number:active{
+.number:active,.operator:active{
     box-shadow: -2px -2px 2px black inset,
                 2px 2px 2px #777 inset;
 }
